@@ -2,7 +2,7 @@
 
 This folder contains the parameter files used for **SPECFEM2D** numerical modeling of geometric phase (Δη) for the reference time step with the initial velocity structure.
 
-## Files
+## Contents
 - `DATA`:
     - `Par_file` – Main SPECFEM2D parameter file (mesh size, time step, simulation duration, etc.).  
     - `SOURCES` – Defines the seismic sources used in the simulation (location, amplitude, type).  
