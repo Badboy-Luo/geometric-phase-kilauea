@@ -8,7 +8,7 @@ This folder contains scripts and configuration files for computing ambient seism
 - `station` – Station metadata in XML (FDSN StationXML). Used to get station information
 
 ## Usage
-1. Install MSNoise (v1.6.3 recommended).
+1. Install MSNoise (v1.6.3: http://msnoise.org/doc/).
 2. Download the required waveform data separately.
 3. Run cross-correlation with:
    ```bash
