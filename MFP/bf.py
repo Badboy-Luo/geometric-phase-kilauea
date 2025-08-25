@@ -6,7 +6,6 @@ from obspy.signal.filter import envelope
 import matplotlib.pyplot as plt
 from obspy import read,read_inventory
 from tqdm import tqdm
-import cmocean
 import warnings
 warnings.filterwarnings('ignore')
 
