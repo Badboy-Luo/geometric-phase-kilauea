@@ -22,7 +22,7 @@ geometric-phase-kilauea/
 │
 ├── cross_correlation/     # MSNoise parameter files and setup
 ├── eta/                   # Δη calculation code
-├── mfp/                   # Matched field processing code
+├── MFP/                   # Matched field processing code
 ├── simulation/            # SPECFEM2D parameter files
 ├── software_versions.txt  # Software version specification
 └── README.md              # This file
