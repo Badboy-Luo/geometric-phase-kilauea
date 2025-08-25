@@ -4,7 +4,7 @@ This folder contains scripts for computing and visualizing geometric phase chang
 
 ## Files
 - `eta.py` – Python script to calculate Δη from temporal CCFs. 
-- `output` – Folder contains precomputed Δη values (daily interval) ready for visualization. Each file corresponds to a reference station and a time window.  
+- `output` – Folder contains precomputed Δη values (daily interval in the 2018 analysis period) ready for visualization. Each file corresponds to a reference station and a time window.  
     **Example:**
     - `05d_AHUD.npy` – Calculated time-frequency Δη values using `AHUD` as the reference station.  
     - `05d_AHUD.txt` – Corresponding time axis (time intervals) for the Δη values.  
