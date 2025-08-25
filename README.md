@@ -20,10 +20,10 @@ The package is organized into four major components reflecting the major analysi
 ```
 geometric-phase-kilauea/
 │
-├── cross_correlation/     # MSNoise parameter files and setup
-├── eta/                   # Δη calculation code
-├── MFP/                   # Matched field processing code
-├── simulation/            # SPECFEM2D parameter files
-├── software_versions.txt  # Software version specification
-└── README.md              # This file
+├── cross_correlation/      # MSNoise parameter files and setup
+├── eta/                    # Geometric phase (Δη) calculation code
+├── MFP/                    # Matched field processing code
+├── simulation/             # SPECFEM2D parameter files
+├── software_versions.txt   # Software version specification
+└── README.md               # This file
 ```
