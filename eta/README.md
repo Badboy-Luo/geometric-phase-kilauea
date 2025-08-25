@@ -2,7 +2,7 @@
 
 This folder contains scripts for computing and visualizing geometric phase changes (Δη) from temporal cross-correlation functions (CCFs). We directly provide calculated Δη in the 2018 analysis period.
 
-## Files
+## Contents
 - `eta.py` – Python script to calculate Δη from temporal CCFs. 
 - `output` – Folder contains precomputed Δη values (daily interval in the 2018 analysis period) ready for visualization. Each file corresponds to a reference station and a time window.  
     **Example:**
