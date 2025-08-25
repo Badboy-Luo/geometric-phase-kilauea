@@ -17,11 +17,13 @@ The package is organized into four major components reflecting the major analysi
 
 ## Repository Structure
 
+```
 geometric-phase-kilauea/
 │
 ├── cross_correlation/     # MSNoise parameter files and setup
 ├── eta/                   # Δη calculation code
 ├── mfp/                   # Matched field processing code
 ├── simulation/            # SPECFEM2D parameter files
-├── environment.yml        # Conda environment specification
+├── software_versions.txt  # Software version specification
 └── README.md              # This file
+```
