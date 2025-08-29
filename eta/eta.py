@@ -36,7 +36,7 @@ plt.rcParams['ytick.direction'] = 'in'
 
 for n in tqdm(range(len(ref_sts))):
     # Set the path to folder that includes cross-correlations for all station pairs
-    path = 'STACKS/01/0%s_DAYS/ZZ'%stack
+    path = 'DATA'
     pairs = [file for file in os.listdir(path) if fnmatch(file,'*%s*'%ref_sts[n])]
 
     # Build the reference vector
