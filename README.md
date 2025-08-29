@@ -31,6 +31,6 @@ geometric-phase-kilauea/
 ├── eta/                    # Geometric phase (Δη) calculation code
 ├── MFP/                    # Matched field processing code
 ├── simulation/             # SPECFEM2D parameter files
-├── software_versions.txt   # Software version specification
+├── dependencies.txt        # Software/libraries version specification
 └── README.md               # This file
 ```
