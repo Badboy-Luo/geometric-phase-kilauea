@@ -19,12 +19,13 @@ This folder contains scripts for computing and visualizing geometric phase chang
 
 ## Usage
 
-1. **Download provided example cross-correlation functions**
-   Download link: [https://www.dropbox.com/scl/fi/ddnweorh0vijm0b8j1rtm/CCFs.zip?rlkey=o0csef8qsesl1rifr4zljbxv2&st=m1v8hjms&dl=0]
-2. **Unzip downloaded `CCFs.zip` and put it in the current folder**
-3. **Calculated Δη:**
+1. **Download provided example cross-correlation functions:**
+
+    [https://www.dropbox.com/scl/fi/ddnweorh0vijm0b8j1rtm/CCFs.zip?rlkey=o0csef8qsesl1rifr4zljbxv2&st=m1v8hjms&dl=0]
+3. **Unzip downloaded `CCFs.zip` and put it in the current folder**
+4. **Calculated Δη:**
    ```bash
    python eta.py
-4. **Visualize precomputed Δη results:**  
+5. **Visualize precomputed Δη results:**  
    ```bash
    python plot.py
