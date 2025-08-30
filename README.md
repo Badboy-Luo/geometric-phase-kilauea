@@ -15,7 +15,7 @@ The package is organized into four major components reflecting the major analysi
 ## Example dataset
 **We provide an example dataset of cross-correlation functions (CCFs) for review purposes**.  
 Download link: [https://www.dropbox.com/scl/fi/ddnweorh0vijm0b8j1rtm/CCFs.zip?rlkey=o0csef8qsesl1rifr4zljbxv2&st=m1v8hjms&dl=0]  
-- It can be directly processed using the script `eta.py` located in the **eta/** folder.  
+- This dataset can be directly processed using the script `eta.py` located in the **eta/** folder.  
 - Running this script with the example data will reproduce the 2018 Δη time series shown in Figure 2 of the manuscript.  
 
 ---
