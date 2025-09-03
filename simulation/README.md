@@ -19,7 +19,7 @@ This folder contains the parameter files used for **SPECFEM2D** numerical modeli
 1. Download **SPECFEM2D** from the official repository: https://github.com/geodynamics/specfem2d
 2. Compile following their installation guide. After compilation, the binaries `xmeshfem2D` and `xspecfem2D` should be available in a `bin/` directory.
 3. Run the simulation.
-    - Copy `run.sh` into the top-level SPECFEM2D directory (same level as `bin/` and `DATA/`).
+    - Copy `run.sh` into the same level as `bin/` and `DATA/` in the directory.
     - ```bash
         bash run.sh
 
