@@ -49,8 +49,8 @@ xloc.append(datetime(2019,1,1))
 xlabel.append('2019-01')
 
 
-# Plot time-frequency function of \Delta\eta for the reference station of "AHUD"
-ref_st = 'AHUD'
+# Plot time-frequency function of \Delta\eta for the reference station of 'RIMD'
+ref_st = 'RIMD'
 etas = np.load(os.path.join('output','%sd_%s.npy'%(stack,ref_st)))
 with open(os.path.join('output','%sd_%s.txt'%(stack,ref_st))) as f:
     cat = f.readlines()
