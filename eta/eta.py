@@ -40,11 +40,11 @@ for n in tqdm(range(len(ref_sts))):
     pairs = [file for file in os.listdir(path) if fnmatch(file,'*%s*'%ref_sts[n])]
 
     # Build the reference vector
-    ref_mag = 0
     ref_allday = []
     
     # Set the reference time period as January 2018
     for ref_d in dateRange('2018-01-01','2018-01-31'):
+        ref_mag = 0
         ref_daily_vectors = []
         num = 0
         for i in range(len(pairs)):
