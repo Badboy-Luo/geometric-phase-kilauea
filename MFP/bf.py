@@ -94,7 +94,7 @@ for i in range(len(dates)):
 
     im = plt.pcolormesh(ux,uy,bf_pair,cmap='Blues',vmin=0,vmax=1)
     plt.scatter(lons,lats,marker='v',color='k',ec='k',lw=2,alpha=0.8,s=200)
-    CS = plt.contour(ux,uy,bf_pair,levels=[0.6],colors=['white'])
+    CS = plt.contour(ux,uy,bf_pair,levels=[0.1,0.6],colors=['k'],zorder=1,linewidths=0.8)
     plt.clabel(CS,inline=True,fmt='%.1f',fontsize=11)
     if yr == 2018:
         plt.text(-155.307,19.395,'Lava lake\n(2008-2018)',color='r',fontsize=13,weight='bold',zorder=3)
