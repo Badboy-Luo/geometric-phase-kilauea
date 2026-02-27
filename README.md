@@ -3,7 +3,7 @@
 This repository contains the codes, parameter files, and example data supporting the study:
 
 **"Geometric phase sensing using seismic waves: A new tool for comprehensive volcano monitoring at Kilauea, Hawaii"**  
-(submitted to *Nature Communications*, 2025)
+(in revision at *Nature Communications*, 2025)
 
 The package is organized into four major components reflecting the major analysis described in the paper:
 
