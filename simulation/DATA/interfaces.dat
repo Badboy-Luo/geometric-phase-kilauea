@@ -1,0 +1,27 @@
+#
+# number of interfaces
+#
+ 2
+#
+# for each interface below, we give the number of points and then x,z for each point
+#
+#
+
+ 2
+   0   -2000
+ 12000 -2000
+
+ 2
+   0   0
+ 12000 0
+
+
+
+
+# for each layer, we give the number of spectral elements in the vertical direction
+#
+#
+
+ 20
+
+
